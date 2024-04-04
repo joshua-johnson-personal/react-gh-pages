@@ -22,8 +22,8 @@ function App() {
           {/* Display popular ESO builds here */}
           <div className="Build-card">
             <h3>Magicka Templar</h3>
-            <p>A powerful healer and damage dealer build for Templar class.</p>
-            <a href="/magicka-templar">View Build</a>
+            <p>A Cracked 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
           </div>
           <div className="Build-card">
             <h3>Stamina Nightblade</h3>
