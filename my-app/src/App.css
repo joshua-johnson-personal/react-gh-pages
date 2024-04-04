@@ -1,58 +1,62 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.Builds-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center; /* Center items horizontally */
-}
-
-.Build-card {
-  width: 300px; /* Adjust the width of each card as needed */
-  margin: 10px;
-  padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  text-align: center;
-}
-
-.build-image {
-  width: 100%; /* Make the image fill the card horizontally */
-  height: auto;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
+  padding: 20px;
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
+  text-align: center;
+}
+
+.App-header h1 {
+  margin-bottom: 10px;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Builds-section {
+  padding: 20px;
+}
+
+.Builds-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.Build-card {
+  width: 300px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+}
+
+.Build-card h3 {
+  margin-top: 0;
+}
+
+.Build-card p {
+  margin-bottom: 10px;
+}
+
+.Build-card a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  background-color: #61dafb;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.Build-card a:hover {
+  background-color: #42a1f5;
+}
+
+.App-footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #282c34;
+  color: white;
 }
