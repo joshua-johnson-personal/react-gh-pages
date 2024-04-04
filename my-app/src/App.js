@@ -30,7 +30,7 @@ function App() {
           </div>
           <div className="Build-card">
           <h3>Oakensoul Templar Healer</h3>
-            <img href="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Templar_Healer.png" alt="Oakensoul Templar Healer" 
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Templar_Healer.png" alt="Oakensoul Templar Healer" 
             style={{ width: '200px', height: 'auto' }} // Custom resize
             />
             <p>An Ulti-Gen 1-Bar Templar Healer.</p>
