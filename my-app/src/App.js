@@ -77,7 +77,7 @@ function App() {
 
           <div className="Build-card">
             <h3>Sorcerer Healer</h3>
-            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Sorcerer_Healer.png"
             style={{ width: '200px', height: 'auto' }} // Custom resize
             />
             <p>An Incredibly Survivable Sorcerer Healer that reduces enemies shields and keeps the group alive. Throw in one of the most powerful Ulitmates in the game, Negate, and you have a real chance of wiping large groups.</p>
@@ -86,13 +86,13 @@ function App() {
 
           <div className="Build-card">
             <h3>Werewolf Healer</h3>
-            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Werewolf_Healer.png"
             style={{ width: '200px', height: 'auto' }} // Custom resize
             />
             <p>You are not insane. You read that right. A Werewolf Healer that heals in both human form and werewolf form. If you don't believe me, come and find out!</p>
             <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=606996">View Build</a>
           </div>
-          
+
           {/* Add more build cards as needed */}
         </div>
       </section>
