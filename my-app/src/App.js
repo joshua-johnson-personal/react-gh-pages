@@ -22,7 +22,7 @@ function App() {
           {/* Display popular ESO builds here */}
           <div className="Build-card">
             <h3>Oakensoul Warden Healer</h3>
-            <img src={'my-app/src/Warden_Healer.png'} alt="Oakensoul Warden Healer" 
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
             style={{ width: '200px', height: 'auto' }} // Custom resize
             />
             <p>Tank 1-Bar Warden Healer.</p>
@@ -30,7 +30,7 @@ function App() {
           </div>
           <div className="Build-card">
           <h3>Oakensoul Templar Healer</h3>
-            <img href="/react-gh-pages/Templar_Healer.png" alt="Oakensoul Templar Healer" 
+            <img href="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Templar_Healer.png" alt="Oakensoul Templar Healer" 
             style={{ width: '200px', height: 'auto' }} // Custom resize
             />
             <p>An Ulti-Gen 1-Bar Templar Healer.</p>
