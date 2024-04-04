@@ -22,18 +22,18 @@ function App() {
           {/* Display popular ESO builds here */}
           <div className="Build-card">
             <h3>Oakensoul Warden Healer</h3>
-            <img src={'/src/artwork/Warden_Healer.png'} alt="Oakensoul Warden Healer" 
+            <img src='/src/artwork/Warden_Healer.png' alt="Oakensoul Warden Healer" 
             style={{ width: '200px', height: 'auto' }} // Custom resize
             />
-            <p>A Cracked 1-Bar Warden Healer.</p>
+            <p>Tank 1-Bar Warden Healer.</p>
             <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
           </div>
           <div className="Build-card">
           <h3>Oakensoul Templar Healer</h3>
-            <img src={'/src/artwork/Warden_Healer.png'} alt="Oakensoul Templar Healer" 
+            <img src='/src/artwork/Warden_Healer.png' alt="Oakensoul Templar Healer" 
             style={{ width: '200px', height: 'auto' }} // Custom resize
             />
-            <p>A Ulti-Bot 1-Bar Templar Healer.</p>
+            <p>A Ulti-Gen 1-Bar Templar Healer.</p>
             <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=572497">View Build</a>
           </div>
           {/* Add more build cards as needed */}
