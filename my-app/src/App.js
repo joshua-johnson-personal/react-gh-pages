@@ -22,7 +22,7 @@ function App() {
           {/* Display popular ESO builds here */}
           <div className="Build-card">
             <h3>Oakensoul Warden Healer</h3>
-            <img src='my-app/artwork/Warden_Healer.jpg' alt="Oakensoul Warden Healer" />
+            <img src="artwork/Warden_Healer.jpg" alt="Oakensoul Warden Healer" />
             <p>A Cracked 1-Bar Warden Healer.</p>
             <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
           </div>
