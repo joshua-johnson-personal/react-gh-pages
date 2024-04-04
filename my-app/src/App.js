@@ -29,6 +29,86 @@ function App() {
             <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
           </div>
           <div className="Build-card">
+            <h3>Oakensoul Warden Healer</h3>
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>Tank 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
+          </div>
+          <div className="Build-card">
+            <h3>Oakensoul Warden Healer</h3>
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>Tank 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
+          </div>
+          <div className="Build-card">
+            <h3>Oakensoul Warden Healer</h3>
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>Tank 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
+          </div>
+          <div className="Build-card">
+            <h3>Oakensoul Warden Healer</h3>
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>Tank 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
+          </div>
+          <div className="Build-card">
+            <h3>Oakensoul Warden Healer</h3>
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>Tank 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
+          </div>
+          <div className="Build-card">
+            <h3>Oakensoul Warden Healer</h3>
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>Tank 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
+          </div>
+          <div className="Build-card">
+            <h3>Oakensoul Warden Healer</h3>
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>Tank 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
+          </div>
+          <div className="Build-card">
+            <h3>Oakensoul Warden Healer</h3>
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>Tank 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
+          </div>
+          <div className="Build-card">
+            <h3>Oakensoul Warden Healer</h3>
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>Tank 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
+          </div>
+          <div className="Build-card">
+            <h3>Oakensoul Warden Healer</h3>
+            <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Warden_Healer.png"
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>Tank 1-Bar Warden Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
+          </div>
+          <div className="Build-card">
           <h3>Oakensoul Templar Healer</h3>
             <img src="https://raw.githubusercontent.com/joshua-johnson-personal/react-gh-pages/main/my-app/src/Templar_Healer.png" alt="Oakensoul Templar Healer" 
             style={{ width: '200px', height: 'auto' }} // Custom resize
