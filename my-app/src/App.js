@@ -17,7 +17,7 @@ function App() {
         </a>
       </header>
       <section className="Builds-section">
-        <h2>Popular Builds</h2>
+        <h2 style="text-align: center;">Popular Builds</h2>
         <div className="Builds-container">
           {/* Display popular ESO builds here */}
           <div className="Build-card">
