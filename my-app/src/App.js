@@ -22,7 +22,7 @@ function App() {
           {/* Display popular ESO builds here */}
           <div className="Build-card">
             <h3>Oakensoul Warden Healer</h3>
-            <img href="/react-gh-pages/artwork/Warden_Healer.png" alt="Oakensoul Warden Healer" 
+            <img src={'my-app/src/Warden_Healer.png'} alt="Oakensoul Warden Healer" 
             style={{ width: '200px', height: 'auto' }} // Custom resize
             />
             <p>Tank 1-Bar Warden Healer.</p>
