@@ -22,16 +22,19 @@ function App() {
           {/* Display popular ESO builds here */}
           <div className="Build-card">
             <h3>Oakensoul Warden Healer</h3>
-            <img src="https://github.com/joshua-johnson-personal/react-gh-pages/blob/main/my-app/artwork/Warden_Healer.png?raw=true" alt="Oakensoul Warden Healer" 
+            <img src="./artwork/Warden_Healer.png" alt="Oakensoul Warden Healer" 
             style={{ width: '200px', height: 'auto' }} // Custom resize
             />
             <p>A Cracked 1-Bar Warden Healer.</p>
             <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
           </div>
           <div className="Build-card">
-            <h3>Stamina Nightblade</h3>
-            <p>A stealthy assassin build for Nightblade class focused on stamina.</p>
-            <a href="/stamina-nightblade">View Build</a>
+          <h3>Oakensoul Templar Healer</h3>
+            <img src="./artwork/Templar_Healer.png" alt="Oakensoul Templar Healer" 
+            style={{ width: '200px', height: 'auto' }} // Custom resize
+            />
+            <p>A Ulti-Bot 1-Bar Templar Healer.</p>
+            <a href="https://en.uesp.net/wiki/Special:EsoBuildData?id=614878">View Build</a>
           </div>
           {/* Add more build cards as needed */}
         </div>

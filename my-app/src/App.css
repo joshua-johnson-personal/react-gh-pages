@@ -7,6 +7,26 @@
   pointer-events: none;
 }
 
+.Builds-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Center items horizontally */
+}
+
+.Build-card {
+  width: 300px; /* Adjust the width of each card as needed */
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.build-image {
+  width: 100%; /* Make the image fill the card horizontally */
+  height: auto;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
