@@ -7,11 +7,11 @@ import ContactPage from './ContactPage';
 function App() {
   return (
     <React.StrictMode>
-      <Routes>
+
         <Route path='/' element={<HomePage />}></Route>
         <Route path='/about' element={<AboutPage />}></Route>
         <Route path='/contact' element={<ContactPage />}></Route>
-      </Routes>
+
       </React.StrictMode>
   );
 }
