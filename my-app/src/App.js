@@ -6,17 +6,6 @@ import HomePage from './HomePage'; // Assuming you already have a HomePage compo
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route exact path="/" component={HomePage} />
-        <Route path="/second" component={SecondPage} />
-      </Routes>
-    </Router>
-  );
-}
-
-function App() {
-  return (
     <div className="App">
       <header className="App-header">
         <h1>Welcome to Two_Jay's Secret Stash</h1>
