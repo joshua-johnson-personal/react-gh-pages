@@ -1,14 +1,8 @@
 import React from 'react';
-import { Routes, Route} from 'react-router-dom';
+import { BrowserRouter as Routes, Route} from 'react-router-dom';
 import HomePage from './HomePage';
 import AboutPage from './AboutPage';
 import ContactPage from './ContactPage';
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-     <BrowserRouter>
-      <App />
-    </BrowserRouter>
- );
 function App() {
   return (
     <div>
