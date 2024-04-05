@@ -1,8 +1,9 @@
 import React from 'react';
-import { BrowserRouter as Routes, Route} from 'react-router-dom';
+
 import HomePage from './HomePage';
 import AboutPage from './AboutPage';
 import ContactPage from './ContactPage';
+import { BrowserRouter as Routes, Route} from 'react-router-dom';
 function App() {
   return (
     <div>
