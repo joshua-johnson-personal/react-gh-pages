@@ -7,10 +7,10 @@ import HomePage from './HomePage'; // Assuming you already have a HomePage compo
 function App() {
   return (
     <Router>
-      <Switch>
+      <Routes>
         <Route exact path="/" component={HomePage} />
         <Route path="/second" component={SecondPage} />
-      </Switch>
+      </Routes>
     </Router>
   );
 }
