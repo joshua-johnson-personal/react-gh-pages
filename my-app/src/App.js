@@ -1,5 +1,4 @@
 import React from 'react';
-<<<<<<< HEAD
 import './App.css';
 
 function App() {
@@ -100,27 +99,6 @@ function App() {
         <p>&copy; 2024 ESO Build Repository. All rights reserved.</p>
       </footer>
     </div>
-=======
-import HomePage from './HomePage';
-import AboutPage from './AboutPage';
-import ContactPage from './ContactPage';
-import { Routes, Route, HashRouter } from "react-router-dom";
-
-
-function App() {
-  return (
-
-<HashRouter>
-
-      <Routes>
-        <Route path="/" element={<HomePage />}></Route>
-        <Route path="/about" element={<AboutPage />}></Route>
-        <Route path="/contact" element={<ContactPage />}></Route>
-      </Routes>
-
-</HashRouter>
-
->>>>>>> refs/remotes/origin/main
   );
 }
 
